@@ -1,0 +1,4 @@
+name: wplocal
+recipe: wordpress
+config:
+  webroot: .
